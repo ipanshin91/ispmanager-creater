@@ -1,0 +1,7 @@
+# Format: login;password;note;forward_email
+# Lines starting with '#' and empty lines are skipped.
+# If the note contains ';', wrap the field in double quotes.
+ivanov;P@ssw0rd1;Ivan Ivanov;backup@gmail.com
+petrov;P@ssw0rd2;Petr Petrov;
+sidorov;P@ssw0rd3;"Sidorov S.; sales dept";chief@example.com
+support;SupportPass1;Shared support mailbox;
